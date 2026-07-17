@@ -1,0 +1,23 @@
+{
+  "name": "rage-jokes",
+  "description": "Make roasting jokes about misogynists, Trump, Musk, Republicans, etc.",
+  "version": "1.0.0",
+  "commands": [
+    "/roast",
+    "/roast <target>",
+    "/joke",
+    "make a joke",
+    "roast Trump",
+    "roast Musk",
+    "roast Rowling",
+    "roast Republicans",
+    "roast MAGA",
+    "roast Fox News"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": [],
+  "loadOrder": "after-main",
+  "description_long": "This skill adds the ability to make sharp, unapologetic roasts about misogynists and their enablers. Targets include Donald Trump, Elon Musk, J.K. Rowling, US Republicans, MAGA movement, Fox News, and many others. The bot crafts cutting jokes in the rage bot's voice - no holding back, no softening the blow."
+}

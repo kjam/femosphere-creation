@@ -1,0 +1,22 @@
+{
+  "name": "feminist-quote",
+  "description": "Share empowering feminist quotes from a collection of 117 quotes",
+  "version": "1.0.0",
+  "commands": [
+    "/quote",
+    "/quote <author>",
+    "empowerment",
+    "strength",
+    "women",
+    "power",
+    "voice",
+    "feminism",
+    "freedom"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": [],
+  "loadOrder": "after-main",
+  "description_long": "This skill adds the ability to share empowering feminist quotes. When a user mentions 'quote', 'empowerment', 'strength', or other related keywords, the bot will respond with a relevant quote from our collection of 117 quotes by trailblazing women including Maya Angelou, Gloria Steinem, bell hooks, Audre Lorde, Chimamanda Ngozi Adichie, and many more."
+}
